@@ -1,4 +1,1 @@
-ok
-h
-mnodified master
-feetch in gui
+git pull jio master
